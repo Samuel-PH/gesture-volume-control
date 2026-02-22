@@ -9,3 +9,4 @@ A Python-based computer vision tool that allows you to control your system volum
 👏 Credits
 ## 🙏 Credits
 Developed based on the tutorial by **Murtaza's Workshop**: [Gesture Volume Control Tutorial](https://www.youtube.com/watch?v=9iEPzbG-xLE)
+
